@@ -1,0 +1,71 @@
+baseURL = 'http://vstheworld.github.io/'
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+title = '茶殻'
+theme = 'hugo-tranquilpeak-theme'
+hasCJKLanguage = true
+
+[author]
+  name = "綾鷹"
+  bio = "綾鷹です。"
+  job = "大学生"
+  location = "某通信大学生"
+  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  #gravatarEmail = "hoge@example.com"
+  picture = "img/avatar.jpg"
+
+[params]
+  sidebarBehavior = 2
+  thumbnailImage = false
+  dateFormat = "2006-01-02"
+  #thumbnailImagePosition = "left"
+  #autoThumbnailImage = true
+  coverImage = "img/header.jpg"
+  imageGallery = true
+  hierarchicalCategories = true
+  syntaxHighlighter = 'highlight.js'
+  
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 2
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 3
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
+  url = "/tags"
+[[menu.main]]
+  weight = 5
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/#about"
+
+[[menu.links]]
+  weight = 0
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
+  url = "https://github.com/vstheworld"
+
+  [[menu.links]]
+  weight = 0
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter\" aria-hidden=\"true\"></i>"
+  url = "https://twitter.com/yqxxi"
+
+
+  [markup]
+ [markup.goldmark]
+   [markup.goldmark.renderer]
+     unsafe = true
