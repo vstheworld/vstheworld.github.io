@@ -10,6 +10,7 @@ tags: # 複数指定できる
 comments:       false
 showMeta:       true
 showActions:    false
+#thumbnailImage: img/thumb.jpg
 ---
 
 

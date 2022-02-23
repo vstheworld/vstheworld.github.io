@@ -8,19 +8,19 @@ hasCJKLanguage = true
 
 [author]
   name = "綾鷹"
-  bio = "綾鷹です。"
+  bio = "綾鷹です。食べることと音楽を聞くことが好きです。よろしくお願いします。"
   job = "大学生"
-  location = "某通信大学生"
+  location = "某通信大学II類"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   #gravatarEmail = "hoge@example.com"
   picture = "img/avatar.jpg"
 
 [params]
   sidebarBehavior = 2
-  thumbnailImage = false
+  thumbnailImage = true
   dateFormat = "2006-01-02"
-  #thumbnailImagePosition = "left"
-  #autoThumbnailImage = true
+  thumbnailImagePosition = "right"
+  autoThumbnailImage = true
   coverImage = "img/header.jpg"
   imageGallery = true
   hierarchicalCategories = true
