@@ -1,4 +1,5 @@
 baseURL = 'http://vstheworld.github.io/'
+publishDir = "docs"
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = '茶殻'
