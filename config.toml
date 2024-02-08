@@ -6,11 +6,10 @@ theme = 'paper'
 
 
 [params]
-
   color = 'linen'
   twitter = 'yqxxi'
   github = 'vstheworld'
-  bluesky = "yqxxi.perfec.tokyo" 
+  bluesky = 'https://bsky.app/profile/yqxxi.perfec.tokyo'
   avatar = 'https://vstheworld.github.io/images/ayataka_avatar.jpg'
 #  avatar = '!(/images/ayataka_avatar.jpg)'
   name = "綾鷹"
