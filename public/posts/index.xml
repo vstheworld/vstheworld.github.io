@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 出がらし - 綾鷹</title>
+    <title>Posts on 出涸らし</title>
     <link>https://vstheworld.github.io/posts/</link>
-    <description>Recent content in Posts on 出がらし - 綾鷹</description>
+    <description>Recent content in Posts on 出涸らし</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>ayataka</copyright>
     <lastBuildDate>Thu, 08 Feb 2024 18:48:55 +0900</lastBuildDate><atom:link href="https://vstheworld.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Majestouch Minila Airのキースイッチを交換する</title>
@@ -14,7 +13,15 @@
       <pubDate>Thu, 08 Feb 2024 18:48:55 +0900</pubDate>
       
       <guid>https://vstheworld.github.io/posts/20240208/20240208_minila/</guid>
-      <description>はじめに 3年ぐらい使っているMajestouch Minila AirのAltキーの調子が悪くなってきた。具体的にはキーを押す時にひっかかりがあり、離した</description>
+      <description>はじめに 3年ぐらい使っているMajestouch Minila AirのAltキーの調子が悪くなってきた。具体的にはキーを押す時にひっかかりがあり、離したときにすぐ戻らなかったりする。キーボードの前でご飯を食べていたりするのでなんかが入り込んでしまったのであろう。せっかくなので自分で交換することにした。
+必要なもの  キーボード本体 T10 トルクスドライバー Cherry MX 互換キースイッチ(3pin)  5pinでもOK。裏のプラスチックのピンを切り落そう。   はんだごて はんだ はんだ吸い取り線 or はんだ吸い取り器 (キースイッチ引き抜き工具)  手順 下準備  電源スイッチを切る 電池を外す。 二度と保証が効かない覚悟をする。  裏のネジを外す 裏の上部隅に2つあるのでトルクスドライバーで外す。
+外装部品を取る キーボード全体を外装のプラスチックが囲っている形になる。下面のプラスチックと外装のプラスチックはツメで繋がっているのでこいつを外す。
+下側(足に遠い方)ににクレジットカードなどを差し入れつつ外装のプラスチックを外側に押し込み、1こづつツメを外していく。下側4コのツメが外れたら次に上側3個のツメを外していく。
+キーボードの基盤を分離する キースイッチがあるほうを上にしてそのまま持ち上げ、基盤を分離する。
+はんだづけ まず2つの穴のはんだを取る。キースイッチの足が曲がって挿入されているので元に戻しつつキースイッチ引き抜き工具などを用いて引き抜く。
+引き抜いたところに新しいキースイッチを差し込んではんだ付け。
+元に戻す 逆の手順で元に戻す。
+さいごに Alt+Tabでウインドウ切り替えまくり！超快適！ヽ(&amp;lsquo;ω&amp;rsquo;)ﾉ三ヽ(&amp;lsquo;ω&amp;rsquo;)ﾉ</description>
     </item>
     
     <item>

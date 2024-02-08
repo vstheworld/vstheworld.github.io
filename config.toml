@@ -10,7 +10,7 @@ theme = 'paper'
   color = 'linen'
   twitter = 'yqxxi'
   github = 'vstheworld'
-  
+  mastodon = "https://bsky.app/profile/yqxxi.perfec.tokyo" 
   avatar = 'https://vstheworld.github.io/images/ayataka_avatar.jpg'
 #  avatar = '!(/images/ayataka_avatar.jpg)'
   name = "綾鷹"
