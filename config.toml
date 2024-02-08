@@ -1,8 +1,8 @@
 baseURL = 'https://vstheworld.github.io/'
 languageCode = 'ja'
-title = '出がらし'
+title = "出がらし - 綾鷹"
 theme = 'paper'
-copyright = 'ayataka'
+copyright = "ayataka"
 hasCJKLanguage = true
 
 
@@ -16,5 +16,5 @@ hasCJKLanguage = true
   
   avatar = 'https://vstheworld.github.io/images/ayataka_avatar.jpg'
 #  avatar = '!(/images/ayataka_avatar.jpg)'
-  name = '綾鷹'
+  name = "綾鷹"
   bio = '大学生です'
