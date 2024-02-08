@@ -1,10 +1,7 @@
 baseURL = 'https://vstheworld.github.io/'
 languageCode = 'ja'
-title = "出がらし - 綾鷹"
+title = "出涸らし"
 theme = 'paper'
-copyright = "ayataka"
-hasCJKLanguage = true
-
 
 
 
