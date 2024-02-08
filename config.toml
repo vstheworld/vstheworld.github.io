@@ -1,0 +1,18 @@
+baseURL = 'https://vstheworld.github.io/'
+languageCode = 'ja'
+title = '出がらし'
+theme = 'paper'
+
+
+
+
+
+[params]
+
+  color = 'linen'
+  twitter = 'yqxxi'
+  github = 'vstheworld'
+  
+  avatar = 'https://vstheworld.github.io/img/ayataka_avatar.jpg'
+  name = '綾鷹'
+  bio = '大学生'
