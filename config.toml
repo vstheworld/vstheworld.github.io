@@ -13,6 +13,7 @@ theme = 'paper'
   twitter = 'yqxxi'
   github = 'vstheworld'
   
-  avatar = 'https://vstheworld.github.io/img/ayataka_avatar.jpg'
+  avatar = 'https://vstheworld.github.io/images/ayataka_avatar.jpg'
+#  avatar = '!(/images/ayataka_avatar.jpg)'
   name = '綾鷹'
   bio = '大学生'
